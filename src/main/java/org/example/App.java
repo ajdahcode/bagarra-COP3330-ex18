@@ -2,13 +2,7 @@
  *  UCF COP3330 Fall 2021 Assignment 1 Solution
  *  Copyright 2021 alden bagarra
  */
-/*
-Press C to convert from Fahrenheit to Celsius.
-Press F to convert from Celsius to Fahrenheit.
-Your choice: C
-Please enter the temperature in Fahrenheit: 32
-The temperature in Celsius is 0.
- */
+
 package org.example;
 import java.util.Scanner;
 
